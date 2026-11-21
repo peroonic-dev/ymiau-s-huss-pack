@@ -1,0 +1,27 @@
+{
+ "pack": {
+  "description": [
+   {
+    "text": "yMiau's ",
+    "color": "dark_purple"
+   },
+   {
+    "text": "Huss pack ",
+    "color": "gray"
+   },
+   {
+    "text": "Huss",
+    "color": "red"
+   },
+   {
+    "text": "\nhttps://www.twitch.tv/ymiaau",
+    "color": "dark_purple"
+   }
+  ],
+  "min_format": 75,
+  "max_format": [
+   97,
+   99
+  ]
+ }
+}
